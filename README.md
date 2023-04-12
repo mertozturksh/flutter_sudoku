@@ -1,5 +1,5 @@
 <h1 align="center">
-  <br> Classic Sudoku <br>
+  <br>Classic Sudoku<br>
 </h1>
 
 <p align="center">
