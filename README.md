@@ -13,10 +13,10 @@
 You can download the repository or clone it via [Git](https://git-scm.com/downloads)
 ```bash
 # Clone the repository
-$ git clone https://github.com/mertozturksh/flutter-sudoku-app.git
+$ git clone https://github.com/mertozturksh/flutter_sudoku.git
 
 # Go into the repository
-$ cd fluttery-todo
+$ cd flutter_sudoku
 
 # Install dependencies
 $ flutter pub get
